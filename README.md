@@ -51,5 +51,6 @@ cnpm install
 cnpm run dev
 ```
 
-gjy
+GJY
+
 2019.8.3
