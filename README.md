@@ -1,30 +1,3 @@
 # musicapp
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Image text]https://raw.githubusercontent.com/gjyyy/demoMusicAPP/8f090eaf7766c2f0e882b25776d0377b0af73e61/Image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-03%20%E4%B8%8B%E5%8D%881.33.36.png
