@@ -39,3 +39,17 @@
 * css 中flex的正确使用
 * better-scroll 抽象成组件复用
 
+# 项目运行
+
+## 下载依赖
+```
+cnpm install
+```
+
+## 运行项目 打开端口localhost:8080
+```
+cnpm run dev
+```
+
+gjy
+2019.8.3
