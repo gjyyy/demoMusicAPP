@@ -19,3 +19,7 @@
 
 <img src="https://github.com/gjyyy/demoMusicAPP/blob/master/Image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-03%20%E4%B8%8B%E5%8D%881.34.43.png" width=20% height=20%>    <img src="https://github.com/gjyyy/demoMusicAPP/blob/master/Image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-03%20%E4%B8%8B%E5%8D%881.34.12.png" width=20% height=20%>
 
+# 项目介绍
+基于vue全家桶开发的一款移动端音乐播放器webapp
+## 数据来源
+数据由qq音乐后台通过jsonp跨域和代理获取
